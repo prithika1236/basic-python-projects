@@ -1,7 +1,7 @@
 # basic-python-projects
 
 
-This repository contains a collection of beginner-friendly Python projects to help you practice and improve your Python programming skills.
+This repository contains a collection of beginner-friendly Python projects 
 
 ## 🗂️ Projects Included
 
